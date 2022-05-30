@@ -146,3 +146,7 @@ function executeChronometer() {
   }
 
   //reto cerrar en funciones código que se repite con arrow functios =>
+
+  //querySelector(): selector universal, llamar items del html de forma mas universal, id, clases, tags
+  //get elemenById solo va por el id
+  
